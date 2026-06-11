@@ -51,8 +51,8 @@ export default function Footer() {
       </div>
       <div className="border-t border-slate2">
         <p className="mx-auto max-w-6xl px-4 py-4 text-xs text-stone2/50 md:px-6">
-          &copy; {new Date().getFullYear()} Brock&rsquo;s Gym. ABN 50676972643
-          000. Brock&rsquo;s Gym is an independent vending operator and is not
+          &copy; {new Date().getFullYear()} Brock&rsquo;s Gym. ABN 50676972643.
+          Brock&rsquo;s Gym is an independent vending operator and is not
           affiliated with, endorsed or sponsored by Nintendo, Creatures Inc.,
           GAME FREAK or The Pok&eacute;mon Company.
         </p>
