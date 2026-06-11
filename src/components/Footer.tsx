@@ -42,8 +42,8 @@ export default function Footer() {
             Contact
           </h2>
           <p className="mt-3 text-sm">
-            <a href="mailto:brocksgymvending@gmail.com" className="hover:text-ember">
-              brocksgymvending@gmail.com
+            <a href="mailto:hello@brocksgym.com" className="hover:text-ember">
+              hello@brocksgym.com
             </a>
           </p>
           <p className="mt-1 text-sm text-stone2/70">Sydney, NSW</p>
