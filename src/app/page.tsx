@@ -22,7 +22,7 @@ const steps = [
 const faqs = [
   {
     q: "Is the product genuine and sealed?",
-    a: "Yes. Everything in our machines is factory-sealed, sourced from authorised Australian distributors. We never stock loose, weighed or resealed packs.",
+    a: "Yes. Everything in our machines is factory-sealed, sourced from authorised distributors. We never stock loose, weighed or resealed packs.",
   },
   {
     q: "What do the machines stock?",
